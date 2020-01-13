@@ -8,6 +8,7 @@
 یک برنامه‌ی بسیار ساده در زبان سی‌پلاس‌پلاس که صرفاً یک رشته را در خروجی می‌نویسد.
 </p>
 </div>
+<a href="01_HelloWorld.cpp">01_Basics/01_HelloWorld.cpp</a>
 
 ```c++
 #include <iostream>
@@ -25,6 +26,7 @@ int main()
 این مثال استفاده اولیه از تایپ رشته و نحوه‌ی خواندن از ورودی را نشان می‌دهد.
 </p>
 </div>
+<a href="02_HelloName.cpp">01_Basics/02_HelloName.cpp</a>
 
 ```c++
 #include <iostream>
@@ -46,6 +48,7 @@ int main()
 در این مثال چند مقدار به دنبال هم از ورودی خوانده می‌شود. دقت کنید که اگر رشته‌ای از cin خوانده شود، یک کلمه از ورودی خوانده شده در آن متغیر قرار می‌گیرد. مثلاً اگر ورودی Gholam 29 در ورودی تایپ شود مقدار name برابر Gholam و مقدار age برابر 29 خواهد بود.
 </p>
 </div>
+<a href="03_HelloNameAge.cpp">01_Basics/03_HelloNameAge.cpp</a>
 
 ```c++
 #include <iostream>
@@ -68,6 +71,7 @@ int main()
 این برنامه تعدادی کلمه را از ورودی می‌خواند و در صورتی که کلمه‌ای تکرار شود این موضوع را با نمایش پیغامی اطلاع می‌دهد.<br/>خواندن ورودی تا آنجا ادامه می‌یابد که کاربر با ctrl-d (یا ctrl-z در ویندوز) خاتمه ورودی را مشخص کند.
 </p>
 </div>
+<a href="04_DeleteRepeated.cpp">01_Basics/04_DeleteRepeated.cpp</a>
 
 ```c++
 #include <iostream>
@@ -92,6 +96,7 @@ int main()
 یک برنامه‌ی بسیار ساده در زبان سی‌پلاس‌پلاس که صرفاً یک رشته را در خروجی می‌نویسد.
 </p>
 </div>
+<a href="07_ExitTest.cpp">01_Basics/07_ExitTest.cpp</a>
 
 ```c++
 #include <iostream>
