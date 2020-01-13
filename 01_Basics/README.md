@@ -1,6 +1,6 @@
-	<div dir="rtl">
-		<ol>
-			<li>سلام</li>
-			<li>حالت خوبه؟</li>
-		</ol>
-	</div>
+<div dir="rtl">
+	<ol>
+		<li>سلام</li>
+		<li>حالت خوبه؟</li>
+	</ol>
+</div>
